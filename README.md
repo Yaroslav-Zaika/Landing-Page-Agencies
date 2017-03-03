@@ -1,4 +1,4 @@
-# Llanding Page for Agencies
+# Landing Page for Agencies
 
 
 [example](https://yaroslav-zaika.github.io/landing-page-agencies/)
