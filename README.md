@@ -1,7 +1,7 @@
 # Landing Page for Agencies
 
 
-[example](https://yaroslav-zaika.github.io/landing-page-agencies/)
+[example](https://yaroslav-zaika.github.io/Landing-Page-Agencies/)
 
 ## Build Setup
 
